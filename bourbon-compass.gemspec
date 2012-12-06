@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   # Release Specific Information
-  s.version = "2.1.2"
-  s.date = "2012-11-02"
+  s.version = "2.1.3"
+  s.date = "2012-12-05"
 
   # Gem Details
   s.name = "bourbon-compass"
@@ -12,7 +12,6 @@ Gem::Specification.new do |s|
   s.homepage = "https://github.com/thoughtbot/bourbon"
 
   # Gem Files
-  s.files = %w(readme.md)
   s.files += Dir.glob("lib/**/*.*")
   s.files += Dir.glob("stylesheets/**/*.*")
 
