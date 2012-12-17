@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   # Release Specific Information
-  s.version = "2.1.3"
-  s.date = "2012-12-05"
+  s.version = "3.0.1"
+  s.date = "2012-12-07"
 
   # Gem Details
   s.name = "bourbon-compass"
@@ -18,5 +18,5 @@ Gem::Specification.new do |s|
   # Gem Bookkeeping
   s.rubygems_version = %q{1.3.6}
   s.add_dependency("compass", [">= 0.11"])
-  s.add_dependency("sass", [">=3.2"])
+  s.add_dependency("sass", [">=3.2.0"])
 end
