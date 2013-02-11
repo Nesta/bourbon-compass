@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   # Release Specific Information
-  s.version = "3.0.1"
-  s.date = "2012-12-07"
+  s.version = "3.1.0"
+  s.date = "2013-02-08"
 
   # Gem Details
   s.name = "bourbon-compass"
