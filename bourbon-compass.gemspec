@@ -1,15 +1,15 @@
 Gem::Specification.new do |s|
   # Release Specific Information
-  s.version = "3.1.6"
-  s.date = "2013-04-30"
+  s.version = "3.1.8"
+  s.date = "2013-06-11"
 
   # Gem Details
   s.name = "bourbon-compass"
   s.authors = ["Jed Foster"]
-  s.summary = %q{ThoughtBot's Bourbon packaged as Compass extension.}
-  s.description = %q{ThoughtBot's Bourbon packaged as Compass extension.}
+  s.summary = %q{ThoughtBot's Bourbon packaged as a Compass extension.}
+  s.description = %q{ThoughtBot's Bourbon packaged as a Compass extension.}
   s.email = "jed@jedfoster.com"
-  s.homepage = "https://github.com/thoughtbot/bourbon"
+  s.homepage = "https://github.com/jedfoster/bourbon-compass"
 
   # Gem Files
   s.files += Dir.glob("lib/**/*.*")
