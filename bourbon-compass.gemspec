@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   # Gem Details
   s.name = "bourbon-compass"
   s.authors = ["Jed Foster"]
-  s.summary = %q{ThoughtBot's Bourbon packaged as a Compass extension.}
-  s.description = %q{ThoughtBot's Bourbon packaged as a Compass extension.}
+  s.summary = %q{thoughtbot's Bourbon packaged as a Compass extension.}
+  s.description = %q{thoughtbot's Bourbon packaged as a Compass extension.}
   s.email = "jed@jedfoster.com"
   s.homepage = "https://github.com/jedfoster/bourbon-compass"
 
