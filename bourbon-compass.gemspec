@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   # Release Specific Information
-  s.version = "3.2.0.beta.1"
+  s.version = "3.2.0.beta.1.a"
   s.date = "2013-11-15"
 
   # Gem Details
@@ -17,6 +17,6 @@ Gem::Specification.new do |s|
 
   # Gem Bookkeeping
   s.rubygems_version = %q{1.3.6}
-  s.add_dependency("compass", [">= 0.11"])
-  s.add_dependency("sass", [">=3.2.0"])
+  s.add_dependency("compass", [">= 0.13.alpha.10"])
+  s.add_dependency("sass", [">= 3.3.0.rc.1"])
 end
