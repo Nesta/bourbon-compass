@@ -1,3 +1,9 @@
+# I am no longer actively maintaining this project. 
+
+I recommend installing Bourbon with Bower. See [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) for current installation instructions.
+
+---
+
 # bourbon-compass
 
 This project is simply a repackaging of thoughtbot's [Bourbon](http://bourbon.io/) as a Compass extension. I try to keep it in sync and up to date with Bourbon.
